@@ -10,7 +10,7 @@ AFC-Pro is a PCB designed for Armored Turtle's Box Turtle AFC system. It feature
 - USB and CAN Support
 - 5V Buck Converter
 
-## Purchasing a XXX
+## Purchasing a AFC-Pro
 ### Buy From Me (US - Ships Worldwide)
 [AFC-Lite - Isik's Tech](https://store.isiks.tech/products/afc-pro) <br>
 We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) and [other BT parts](https://store.isiks.tech/collections/box-turtle-parts) available.
