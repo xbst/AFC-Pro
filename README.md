@@ -1,14 +1,17 @@
 # AFC-Pro
 ![AFC-Pro PCB](./Images/PCB.PNG)
 AFC-Pro is a PCB designed for Armored Turtle's Box Turtle AFC system. It features:
-- 4x Stepstick Slots for TMC2209-based Stepsticks
-- 4x Brushed DC Motor Drivers
-- 4x RGB LED Connectors
-- 12x Endstop Connectors
-- 1x 5V Fan Connector (No Speed Control)
+- 8x Stepstick Slots for TMC2209-based Stepsticks
+- 8x Brushed DC Motor Drivers supporting 5V, 12V and 24V Motors
+- 4x ARGB LED Connectors
+- 20x Switch Connectors
+- 2x Thermistor Connectors
+- I2C connector for Chamber Sensors Like Our Nevermore Sensors
+- Fan Connector with Selectable Voltage and Speed Control
+- Heater Control
 - STM32H723 MCU
-- USB and CAN Support
-- 5V Buck Converter
+- USB and CAN Support, With Spare CAN Connector for Daisy Chaining
+- 5V and 12V Buck Converters
 
 ## Purchasing a AFC-Pro
 ### Buy From Me (US - Ships Worldwide)
