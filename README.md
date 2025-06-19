@@ -22,7 +22,7 @@ We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) an
 We will add reseller links as they list AFC-Pros.
 
 ## Instructions
-~~[Manual](./Docs/AFC-Pro_Manual.pdf)~~ Coming Soon
+[Manual](./Docs/AFC-Pro_Manual.pdf)
 
 ## License
 This work is licensed under a
