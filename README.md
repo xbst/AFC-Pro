@@ -1,5 +1,5 @@
 # AFC-Pro
-![AFC-Pro PCB](./Images/PCB.PNG)
+![AFC-Pro PCB](https://raw.githubusercontent.com/xbst/AFC-Pro/refs/heads/master/Images/PCB.PNG)
 AFC-Pro is a PCB designed for Armored Turtle's Box Turtle AFC system. It features:
 - 8x Stepstick Slots for TMC2209-based Stepsticks
 - 8x Brushed DC Motor Drivers supporting 5V, 12V and 24V Motors
@@ -22,7 +22,7 @@ We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) an
 We will add reseller links as they list AFC-Pros.
 
 ## Instructions
-[Manual](./Docs/AFC-Pro_Manual.pdf)
+[Manual](https://raw.githubusercontent.com/xbst/AFC-Pro/refs/heads/master/Docs/AFC-Pro_Manual.pdf)
 
 ## License
 This work is licensed under a
