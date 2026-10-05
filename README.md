@@ -14,16 +14,11 @@ AFC-Pro is a PCB designed for Armored Turtle's Box Turtle AFC system. It feature
 - 5V and 12V Buck Converters
 
 ## Purchasing a AFC-Pro
-### Buy From Me (US - Ships Worldwide)
-[AFC-Lite - Isik's Tech](https://store.isiks.tech/products/afc-pro) <br>
+[Isik's Tech Official Store](https://store.isiks.tech/products/afc-pro) <br>
 We also have [Full BT kits](https://store.isiks.tech/products/box-turtle-kit) and [other BT parts](https://store.isiks.tech/collections/box-turtle-parts) available.
 
-### United States
-- [Amazon (Prime Shipping)](https://www.amazon.com/dp/B0FK8PJPY4?maas=maas_adg_3B144079AFAF8FE8466EFD4317FA5A0A_afap_abs&ref_=aa_maas&tag=maas)
-- [West3D](https://west3d.com/products/afc-pro-8-lane-box-turtle-multi-filament-controller-pcb)
-
 ## Instructions
-[Manual](https://raw.githubusercontent.com/xbst/AFC-Pro/refs/heads/master/Docs/AFC-Pro_Manual.pdf)
+[Manual](https://docs.isiks.tech/box-turtle/afc-pro/manual/)
 
 ## License
 This work is licensed under a
